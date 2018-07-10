@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/codestates/eslint-config-codestates.git",
+  "_id": "eslint-config-codestates@1.0.0",
+  "_inBundle": false,
+  "_location": "/eslint-config-codestates",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "eslint-config-codestates@git+https://github.com/codestates/eslint-config-codestates.git",
+    "name": "eslint-config-codestates",
+    "escapedName": "eslint-config-codestates",
+    "rawSpec": "git+https://github.com/codestates/eslint-config-codestates.git",
+    "saveSpec": "git+https://github.com/codestates/eslint-config-codestates.git",
+    "fetchSpec": "https://github.com/codestates/eslint-config-codestates.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+https://github.com/codestates/eslint-config-codestates.git#71af7884060e40e7734302853c595daec1a23d01",
+  "_spec": "eslint-config-codestates@git+https://github.com/codestates/eslint-config-codestates.git",
+  "_where": "/Users/ingikim/codestates/immersive-course/immersive-repo-ci/im07-2018-06-web-historian",
+  "author": {
+    "name": "Code States",
+    "email": "communication@codestates.com",
+    "url": "http://codestates.com"
+  },
+  "bugs": {
+    "url": "https://github.com/codestates/eslint-config-codestates/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An ESLint configuration enforcing Code States's style guide",
+  "homepage": "https://github.com/codestates/eslint-config-codestates#readme",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "eslint-config-codestates",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codestates/eslint-config-codestates.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
